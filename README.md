@@ -25,12 +25,11 @@ I took raw sales data and turned it into something you can actually interact wit
 📂 What's Inside
 
 - https://github.com/ishuishu3422-sketch/Excel-Project/blob/main/excel-sales-dashboard.xlsx  — the main file
--  — sneak peek screenshot
+- https://github.com/ishuishu3422-sketch/Excel-Project/blob/main/dashboard-preview.png — sneak peek screenshot
 - `README.md` — you're reading it! 💕
 
 
 📈 What I Found
-
 - **West region** is killing it with $245K in sales
 - **Electronics** = biggest profit maker (42%!)
 - Everyone shops in **December** — holiday season wins again 🎄
@@ -54,4 +53,4 @@ I'm currently looking for a data analyst role, so if you like what you see, let'
 
 ---
 
-*Thanks for stopping by! Open to feedback, collab, or just a friendly hello ✨*
+*Thanks for stopping by✨*
