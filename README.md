@@ -52,7 +52,7 @@ I'm currently looking for a data analyst role, so if you like what you see, let'
 - **Dataset:** Provided by Chandoo for practice purposes
 ---
 *Thanks for stopping by✨*
-## 🙏 Credits
+ Credits
 
 - **Tutorial:** [Chandoo's Excel Dashboard Tutorial](https://youtu.be/l5qkg8gzY6E)
 - **Dataset:** Provided by Chandoo for practice purposes
