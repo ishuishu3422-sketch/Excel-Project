@@ -52,5 +52,7 @@ I'm currently looking for a data analyst role, so if you like what you see, let'
 - **GitHub:    https://github.com/ishuishu3422-sketch
 
 ---
+<!-- Uploading "excel-sales-dashboard - Excel 2026-04-01 22-02-57.mp4"... -->
+
 *Thanks for stopping by✨*
 
