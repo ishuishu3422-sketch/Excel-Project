@@ -24,8 +24,8 @@ I took raw sales data and turned it into something you can actually interact wit
 
 📂 What's Inside
 
-- `sales-dashboard.xlsx` — the main file
-- `dashboard-preview.png` — sneak peek screenshot
+- https://github.com/ishuishu3422-sketch/Excel-Project/blob/main/excel-sales-dashboard.xlsx  — the main file
+-  — sneak peek screenshot
 - `README.md` — you're reading it! 💕
 
 
