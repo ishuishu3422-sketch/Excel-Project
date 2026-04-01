@@ -48,12 +48,14 @@ I took raw sales data and turned it into something you can actually interact wit
 
 I'm currently looking for a data analyst role, so if you like what you see, let's chat!
 
-- **LinkedIn:  www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375
-- **GitHub:    https://github.com/ishuishu3422-sketch
-
+- **Tutorial:** [Chandoo's Excel Dashboard Tutorial](https://youtu.be/l5qkg8gzY6E)
+- **Dataset:** Provided by Chandoo for practice purposes
 ---
 *Thanks for stopping by✨*
+## 🙏 Credits
 
+- **Tutorial:** [Chandoo's Excel Dashboard Tutorial](https://youtu.be/l5qkg8gzY6E)
+- **Dataset:** Provided by Chandoo for practice purposes
 
 
 
