@@ -2,13 +2,13 @@
 Hey there! 👋 I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!).
 
 
-🎯 What's This About?
+ What's This About?
 
 I took raw sales data and turned it into something you can actually interact with. Think filters, charts, and insights—all in Excel!
 
 **What I practiced here:**
 - Cleaning messy data (thanks Power Query!)
-- Building pivot tables without getting confused 😅
+- Building pivot tables without getting confused 
 - Making dashboards that don't hurt the eyes
 
 
@@ -26,13 +26,13 @@ I took raw sales data and turned it into something you can actually interact wit
 
 - https://github.com/ishuishu3422-sketch/Excel-Project/blob/main/excel-sales-dashboard.xlsx  — the main file
 - https://github.com/ishuishu3422-sketch/Excel-Project/blob/main/dashboard-preview.png — sneak peek screenshot
-- `README.md` — you're reading it! 💕
+- `README.md` — you're reading it! 
 
 
 📈 What I Found
 - **West region** is killing it with $245K in sales
 - **Electronics** = biggest profit maker (42%!)
-- Everyone shops in **December** — holiday season wins again 🎄
+- Everyone shops in **December** — holiday season wins again 
 
 ---
 
