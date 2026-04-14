@@ -1,5 +1,5 @@
 📊 Excel Sales Dashboard
-Hey there! 👋 I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!).
+Hey there, I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!).
 
 
  What's This About?
@@ -29,14 +29,14 @@ I took raw sales data and turned it into something you can actually interact wit
 - `README.md` — you're reading it! 
 
 
-📈 What I Found
+ What I Found
 - **West region** is killing it with $245K in sales
 - **Electronics** = biggest profit maker (42%!)
 - Everyone shops in **December** — holiday season wins again 
 
 ---
 
-🛠️ Tools I Used
+ Tools I Used
 
 - Excel (obviously)
 - Power Query
