@@ -1,5 +1,5 @@
 📊 Excel Sales Dashboard
-Hey there, I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!).
+Hey there, I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!)
 
 
  What's This About?
