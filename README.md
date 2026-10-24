@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/4cb43b08-ed20-4029-a9bc-d41afd5fdd0b
+
+
 📊 Excel Sales Dashboard
 Hey there, I built this interactive sales dashboard to practice my Excel skills and make data actually look good (and useful!)
 
@@ -60,7 +64,6 @@ I'm currently looking for a data analyst role, so if you like what you see, let'
 
 
 
-https://github.com/user-attachments/assets/4cb43b08-ed20-4029-a9bc-d41afd5fdd0b
 
 
 
